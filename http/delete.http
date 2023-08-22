@@ -1,0 +1,7 @@
+POST /Tekweb/api/delete.php
+Host: localhost
+Content-Type: application/json
+
+{
+    "idfoto": 12
+}
